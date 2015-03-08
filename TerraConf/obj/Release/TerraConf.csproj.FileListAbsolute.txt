@@ -1,0 +1,12 @@
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\TerraConf.exe.config
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\Form1.resx
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\Form1.cs
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\Form1.Designer.cs
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\TerraConf.exe
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\bin\Release\TerraConf.pdb
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.TCForm.resources
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.Properties.Resources.resources
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.csproj.GenerateResource.Cache
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.exe
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.pdb
+C:\Users\scott\Documents\Visual Studio 2013\Projects\TerraConf\TerraConf\obj\Release\TerraConf.csprojResolveAssemblyReference.cache
